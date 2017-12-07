@@ -1,0 +1,33 @@
+.dropdown-menu{
+	border-radius: 0;
+	color: #333;
+	background: currentcolor;
+	padding: 0;
+	li{
+		a{
+			color: #fff;
+			padding: .75rem;
+			cursor: pointer;
+			&:hover{
+				background: #000;
+				color: #fff;
+			}
+			span{
+				margin-left: .75rem;
+				font-size: 1.5rem;
+				line-height: 2.5rem;
+			}
+		}
+	}
+}
+.dropdown-menu-right:before{
+	content: '';
+	width: 0;
+	height: 0;
+	border-left: 1rem solid transparent;
+	border-right: 1rem solid transparent;
+	border-bottom: 1.2rem solid currentcolor;
+	position: absolute;
+	top: -1.2rem;
+	right: 0.8rem;
+}

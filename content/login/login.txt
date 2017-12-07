@@ -1,0 +1,21 @@
+Title: Login
+
+----
+
+Alert: Identifiant ou mot de passe invalide.
+
+----
+
+Username: Identifiant
+
+----
+
+Password: Mot de passe
+
+----
+
+Button: Connexion
+
+----
+
+Identifiant: Identifiant

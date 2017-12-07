@@ -1,0 +1,9 @@
+Title: Éléments
+
+----
+
+Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+
+----
+
+Text: 

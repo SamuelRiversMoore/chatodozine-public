@@ -1,0 +1,17 @@
+@font-face {
+		font-family: 'whoismono';
+		src: url(../fonts/whois-mono.woff2) format('woff2'),
+			 url(../fonts/whois-mono.woff) format('woff'),
+			 url(../fonts/whois-mono.ttf) format('truetype'),
+			url(../fonts/whois-mono.eot?#iefix) format('embedded-opentype');
+		font-weight: normal;
+		font-style: normal;
+}
+@font-face {
+		font-family: 'worksans';
+		src: url(../fonts/worksans/woff2/WorkSans-ExtraBold.woff2) format('woff2'),
+			 url(../fonts/worksans/woff/WorkSans-ExtraBold.woff) format('woff'),	 
+			 url(../fonts/worksans/ttf/WorkSans-ExtraBold.ttf) format('truetype');
+		font-weight: normal;
+		font-style: normal;
+}

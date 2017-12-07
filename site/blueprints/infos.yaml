@@ -1,0 +1,42 @@
+title: Infos
+
+fields:
+  title:
+    label: Titre
+    type: title
+    readonly: true
+
+  editotitle:
+    label: Titre de l'édito
+    type: title
+    width: 1/2
+
+  bgcolor:
+    label: Couleur de fond
+    type: color
+    width: 1/4
+
+  txtcolor:
+    label: Couleur du texte
+    type: color
+    width: 1/4
+
+  presentation:
+    label: Présentation
+    type: textarea
+
+  credits:
+    label: Crédits
+    type: textarea
+
+  partenaires:
+    label: Partenaires
+    type: textarea
+
+  remerciements:
+    label: Remerciements
+    type: textarea
+
+  contact:
+    label: Contact
+    type: textarea

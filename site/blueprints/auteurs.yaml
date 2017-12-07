@@ -1,0 +1,9 @@
+title: Auteurs
+
+file: false
+pages: auteur
+
+fields:
+  title:
+    label: Titre
+    type: title

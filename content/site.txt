@@ -1,0 +1,205 @@
+Title: Chatodozine
+
+----
+
+Author: 
+
+----
+
+Description: Un fanzine né à Montreuil-sous-bois.
+
+----
+
+Copyright: 
+
+----
+
+Increasebuttontitle: 
+
+----
+
+Decreasebuttontitle: 
+
+----
+
+Increasepos: Augmenter la position
+
+----
+
+Decreasepos: Diminuer la position
+
+----
+
+Removeitem: Supprimer
+
+----
+
+Savemodifs: Enregistrer
+
+----
+
+Edititem: Éditer
+
+----
+
+Cancel: 
+
+----
+
+A-increasepos: aa
+
+----
+
+A-decreasepos: 
+
+----
+
+A-removeitem: 
+
+----
+
+Savemodifsalt: Enregister les modifications
+
+----
+
+Ui-increasepos: Augmenter la position
+
+----
+
+Edititemalt: Modifier l'élément
+
+----
+
+Cancelbutton: Annuler
+
+----
+
+Removeitemalt: Supprimer l'élément de la médiathèque
+
+----
+
+Cancelbuttonalt: Annuler les modifications
+
+----
+
+Addbuttonalt: Ajouter l'élément sur la table
+
+----
+
+Addbutton: Ajouter
+
+----
+
+Removebutton: Enlever
+
+----
+
+Removebuttonalt: Enlever l'élément de la table
+
+----
+
+Mediasbutton: Médias
+
+----
+
+Toolsbutton: Outils
+
+----
+
+Loginbutton: Connexion
+
+----
+
+Loginbuttonalt: Se connecter
+
+----
+
+Logoutbutton: Déconnexion
+
+----
+
+Logoutbuttonalt: Se déconnecter
+
+----
+
+Editmodeenabled: Mode édition activé
+
+----
+
+Editmodedisabled: Mode édition desactivé
+
+----
+
+Createmedia: New
+
+----
+
+Createmediaalt: Ajouter un média
+
+----
+
+Image: 
+
+----
+
+Titleimage: 
+
+----
+
+Newimage: 
+
+----
+
+Deleteimage: 
+
+----
+
+Audio: 
+
+----
+
+Titleaudio: 
+
+----
+
+Newaudio: 
+
+----
+
+Deleteaudio: 
+
+----
+
+Video: 
+
+----
+
+Titlevideo: 
+
+----
+
+Newvideo: 
+
+----
+
+Deletevideo: 
+
+----
+
+Submit: 
+
+----
+
+Create: 
+
+----
+
+Selectfile: 
+
+----
+
+Loginalert: Identifiant ou mot de passe invalide.
+
+----
+
+Preview: preview2.jpg

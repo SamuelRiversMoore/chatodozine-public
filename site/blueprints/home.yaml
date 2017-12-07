@@ -1,0 +1,20 @@
+title: Page d'accueil
+
+pages: false
+options: 
+  status: false 
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  intro:
+    label: Intro
+    type:  textarea
+    size:  small
+
+  text:
+    label: Text
+    type:  textarea
+    size:  large

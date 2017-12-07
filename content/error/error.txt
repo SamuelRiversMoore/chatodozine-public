@@ -1,0 +1,9 @@
+Title: Erreur!
+
+----
+
+Intro: Cette page est introuvable.
+
+----
+
+Text: Rendez-vous sur la (link: / text: page d’accueil) pour continuer la visite.

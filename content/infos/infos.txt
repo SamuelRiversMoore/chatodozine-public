@@ -1,0 +1,120 @@
+Title: Infos
+
+----
+
+Text: 
+
+----
+
+Presentation: 
+
+###Un fanzine en dialogue avec un web documentaire
+
+Chatodozine est né dans les coulisses d’une autre œuvre que nous étions en train d’écrire : un web documentaire sur la transformation radicale d’un quartier inscrit dans un vaste programme de rénovation urbaine, le quartier Bel Air - Grands-Pêchers à Montreuil (93).
+
+Dans ce web documentaire, nous interrogeons le sens donné à la « participation » des habitants, alors que cette dernière s’affiche partout comme une nécessité de la politique de renouvellement urbain. Cette question nous est par ailleurs particulièrement intime puisque nous nous installons dans ce quartier en 2011 et devenons ainsi nous-mêmes « des habitants invités à participer ». 
+
+Notre point de départ a été de nous infiltrer dans les étapes de cette transformation avec la mise en scène de performances d’artistes sur des terrains laissés vacants après une destruction et avant leur reconstruction. Ces interventions filmées sont le fil rouge à partir duquel nous composons notre récit documentaire. Notre tournage a duré 4 ans, de 2012 à 2016. 
+
+La spécificité de la narration sur internet suscite de nombreuses questions et notamment à l’endroit de l’interactivité qui sous-entend que le spectateur-internaute peut participer à l’œuvre elle-même. Nous avons eu envie d’éviter de faire de cette participation une simple accumulation de commentaires. Nous voulions un espace singulier, réfléchi avec la même exigence que notre recherche. Un espace à même de faire entendre d’autres voix que la nôtre et de créer une aventure collective et polyphonique. Un espace vivant, capable de créer de nouvelles rencontres et d’agir dans le monde réel. 
+
+C’est devenu Chatodozine. 
+
+###CHATODOZINE de 2016 à 2017
+
+Chatodozine est un autre espace d’expression qui vient infiltrer notre premier récit sur la ville. 
+
+C’est un journal écrit par des jeunes de Montreuil, âgés de 16 à 20 ans. Avec le dessin, la photographie, la vidéo et le son, les auteurs livrent des récits intimes sur ce qui, dans leur quotidien, les brûlent, les révoltent ou au contraire les inspirent dans leur vie. Des artistes les accompagnent tout au long de leur processus d’écriture.
+
+D’octobre 2016 à juillet 2017, c’est 5 artistes accompagnés d’un développeur web et 9 jeunes de Montreuil âgés de 16 à 20 ans qui se réunissent en ateliers de création pour composer cet objet-journal voué à exister d’abord sur internet.
+
+Trois tirages papier seront publiés pendant l’année 2017. Pensés comme des « tirés-à-part » de Chatodozine, ils sont la manifestation sous la forme d’un objet matériel diffusé dans le monde réel de l’existence numérique du journal et du webdocumentaire (actuellement en post production). 
+
+Après ces 3 numéros, Chatodozine continue… patience !
+
+----
+
+Editotitle: Bienvenue sur Chatodozine !
+
+----
+
+Bgcolor: #ffd7d7
+
+----
+
+Txtcolor: 
+
+----
+
+Credits: 
+
+###Les porteurs de chatodozine :
+
+####Abdelatif Belhaj
+Diplomé d’Arts du Spectacle à l’Université de Caen, Abdelatif est d’abord comédien puis danseur avant de se passionner pour l’art vidéo et la création documentaire. Après avoir réalisé des vidéos d’art en projection et installation, il devient monteur dans le champ des films documentaires de création. Il co-fonde avec Roselyne Burger l’Association Plexus, avec laquelle il produit son premier film documentaire « La pêche et l’olive » (2017) et mène en parallèle de nombreux ateliers artistiques en France et à l’étranger avec tout type de publics. Il anime le « Ciné Bel Air » un ciné-club dédié au documentaire de création et accueilli depuis 2 ans dans la Maison du Grand Air à Montreuil. Il réalise aussi le web-doc « Château d’eau » et crée le projet « Chatodozine » dont il assure la coordination générale.
+
+####Roselyne Burger 
+Du Droit aux Etudes Politiques sur le monde arabe contemporain, Roselyne se questionne sur la place des musiques traditionnelles dans nos sociétés contemporaines, les tiraillements identitaires et les appartenances multiples, les parcours migratoires et les modes de vie nomades. En 2007, elle découvre l’(link:www.khiasma.net text:Espace Khiasma) où elle démonte les plafonds, coordonne, administre, et monte des résidences. En 2013, elle crée avec Abdelatif Belhaj l’Association Plexus dans son quartier Bel Air - Grands-Pêchers et reprend la route animée par des projets de création documentaire et d’ateliers sonores. Cela ne l’empêche pas de se lancer à corps perdu dans le Cirque (Cirque électrique, Le Troisième Cirque, Le Groupe Acrobatique de Tanger...) et de travailler aujourd’hui avec le circassien Fragan Gehlker dans l’Association du Vide.
+
+###Les artistes invités :
+
+####Lolita Bourdet - Photographe
+Lolita Bourdet est photographe professionnelle, diplômée de l’Ecole Nationale Supérieure d’Arts de Paris-Cergy. En 2010, est la lauréate du prix pour la Jeune Création du Bal avec son projet “René & Jean”. Elle développe depuis ses projets personnels dans le cadre de résidences artistiques, s’expose en France, en Italie et au Canada. Le documentaire est son mode narratif de prédilection, où la photographie joue un rôle majeur, qu’elle complète par elle-même ou en collaboration d’éléments plastiques, sonores ou textuels. En parallèle, elle intervient au sein d’ateliers artistiques auprès des jeunes publics pour des institutions scolaires, culturelles et sociales en France et à l’étranger. 
+(link: www.lolitabourdet.com text: www.lolitabourdet.com)
+
+####Hélène Cœur – créatrice sonore
+Hélène Cœur réalise des documentaires pour ARTE Radio, des projets sonores participatifs en ville et à la campagne, « Chantez vous » collecte de chansons et réalisations de portraits  chantés « La fougère » histoires d’un quartier (résidence à l'espace Khiasma aux Lilas).  En 2014, elle participe au Musée Commun à Paris XXe. Avec la compagnie l'Imprévu, elle suit le violoncelliste Vincent Courtois pendant la création musicale « Les Démons de Tosca » en questionnant nos démons personnels. Avec l'association Plexus, elle réalise le son pour le film « Ce petit chemin ». Elle crée des bandes-son pour le théâtre et la danse.
+Avec d'autres dingues de radio et de son, elle crée "La Radio Cousue Main" sur Radio Campus Paris. Elle mène des ateliers de création sonore pour les adultes et les enfants.
+
+####Camille Plagnet – réalisateur 
+Après des études de théâtre à l'INSAS à Bruxelles, il suit le master documentaire de Lussas en Ardèche. Depuis il réalise courts et moyens métrages entre fiction et documentaire. Il a notamment réalisé deux documentaires au Burkina Faso : La Tumultueuse Vie d'un déflaté en 2009 et Eugène Gabana le pétrolier en 2014 (coréalisé avec Jeanne Delafosse), tous deux montrés dans de nombreux festivals internationaux. En 2015, il participe à la création de 81 avenue Victor Hugo, pièce de théâtre sur la migration montrée au Festival d'Avignon et au Festival d'Automne. Il est également producteur au sein de l’atelier documentaire.
+
+####Damien Roudeau - dessinateur
+Dessinateur documentariste né en 1981, Damien Roudeau publie ses dessins du réel dans la presse (Le Monde, l’Humanité, CQFD…), les revues (Ballast, Z, Citrus…), des carnets (Actes sud, La Martinière, La Boîte à Bulles…) ou des bandes dessinées (Futuropolis,  Les Arènes), avec des ONG (Médecins du Monde, Médecins sans frontières, Aides, Amnesty International…), en tracts sonores pour les internets ou en collages et peintures dans la rue. Diplômé en illustration (Ecole Estienne) et en arts plastiques (Paris 1 Sorbonne), il privilégie les sujets au long cours dans des univers présumés autarciques, et envisage le croquis comme une pratique exploratoire, où vie et création se confondent. 
+
+####Clémence Passot – graphiste
+Depuis plusieurs années, Clémence Passot nourrit sa pratique du graphisme de toutes les pratiques plastiques, artisanales, architecturales pouvant l’élargir et la faire coller au plus près du contexte de ses créations. Dans la même dynamique, elle associe volontiers le public à certaines phases de son travail.
+À travers collaborations et commandes, elle met en valeur des lieux, des projets, créatifs et ouverts, via leur communication visuelle ou leur signalétique. Son goût pour l’objet édité, fait du format journal ou de l’édition éphémère, de véritables laboratoires de formes et de contenus. Quant à son rapport à la ville, il fait parfois flirter sa production avec l’installation in situ.
+Clémence Passot est diplômée de l'école des Arts Décoratifs de Paris (Ensad).
+(link: www.clemencepassot.com text: www.clemencepassot.com)
+
+####Samuel Rivers-Moore – graphiste et développeur
+Basé à Marseille, Samuel conçoit et développe des sites internet parfois expérimentaux.
+(link: www.samuelriversmoore.net text: www.samuelriversmoore.net)
+
+####Guillaume Reynard
+Né dans le Poitou en 1972, Guillaume Reynard est illustrateur. Pour des maisons d’édition il réalise des albums jeunesse et des romans graphiques. Pour la presse quotidienne et magazine il illustre des reportages ou des articles thématiques. Ses images sont aussi utilisées par des institutions, des agences de communication et même des vignerons ! Dès qu'une opportunité se présente, il quitte Montreuil et son atelier pour aller dessiner sur le motif !
+(link: www.guillaumereynard.com text: www.guillaumereynard.com)
+
+###Les jeunes auteurs de Chatodozine sur l’année 2016-2017 : 
+
+Zoé&nbsp;Barthélémy,  Adam&nbsp;Diajité, Kadjidia&nbsp;Doucouré, Oumarou&nbsp;Diallo, Yacine&nbsp;Driss, Riyad&nbsp;Hadji, Ruby&nbsp;Pearl&nbsp;Barrault, Ibrahim&nbsp;Coulibaly, Sirandou&nbsp;Soukouna
+
+
+###PLEXUS
+Plexus est une association dédiée à la création documentaire. Elle soutient la création, la production et la diffusion d’oeuvres cinématographiques et audiovisuelles. Plexus s’intéresse plus particulièrement au développement de projets qui s’inscrivent au croisement des disciplines et des genres. Implantée à Montreuil depuis 2013, elle a la volonté de créer des espaces de rencontre et de mener des aventures collectives où l’art et la recherche documentaire participe de la vitalité d’un territoire et des liens entre les gens. Elle collabore aussi avec de nombreux acteurs du champ éducatif et social afin que l’éducation à l’image et la pratique artistique collective soient un moyen de connaissance et de partage des enjeux sociaux et économiques du monde contemporain et de son histoire.
+
+----
+
+Partenaires: 
+
+(image: logo-inpact.png class:logo inpact link:http://inpact-culture.org/ title: InPACT, fonds de dotation )
+(image: logo-jeunesse-et-sports.png class:logo link:http://www.jeunes.gouv.fr/ title:Ministère de la Jeunesse et des Sports)
+(image: logo_drac_idf.png class:logo link:http://www.culturecommunication.gouv.fr/Regions/Drac-Ile-de-France title:DRAC Île de France)
+
+----
+
+Remerciements: 
+
+Omar Somi et son équipe : Maison du Grand Air – Espace 40
+Sébastien Estebanez : Maison des Mûrs-à-pêches
+Muriel Menuet : Lycée Eugénie Cotton
+
+(link: http://vincentchevillon.com/ text: Vincent Chevillon) auteur du projet (link: http://archipels.org/#/atlas/ text: Archipels.org) dont s'inspire le présent site.
+
+----
+
+Contact: 
+
+<iciplexus@gmail.com>
+(image: plexus-logo.png class:logo plexus)

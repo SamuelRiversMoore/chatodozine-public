@@ -1,0 +1,66 @@
+/*
+ *
+ * Common settings
+ *
+ * 1. General
+ * 2. Login
+ */
+
+/* =======  1. General  ======= */
+.modal{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	.modal-content{
+		border: none;
+		border-radius: 0;
+		.modal-header{
+			padding: 1.5rem;
+			.modal-title{
+				font-size: 2.5rem;
+				font-family: arial;
+				font-weight: normal;
+			}
+		}
+		.modal-footer{
+			padding: 1.5rem;
+		}
+	}
+	button{
+		&.close{
+			margin-top: -1.5rem;
+			margin-right: -1.5rem;
+			padding: .8rem 1rem;
+			line-height: 1rem;
+		}
+	}
+}
+
+/* =======  2. Login Form  ======= */
+#login{
+	font-size: 1.5rem;
+	div{ 
+		margin-bottom: 1.35em;
+	}
+	label{
+		display: block;
+		width:  100%;
+		margin-bottom: .5rem;
+	}
+	input{
+		display: block;
+		width:  100%;
+		padding: 1.1rem;
+		margin-bottom: .5rem;
+		border-radius: 3px;
+    	border: 1px solid rgba(230,230,230,1);
+		.field{
+			background: #f2f2f2;
+			font-size: 1.5rem;
+			padding: 1.2rem;
+			font-family: $font-sansserif-default;
+		}
+	}
+}

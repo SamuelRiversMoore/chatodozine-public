@@ -1,0 +1,11 @@
+title: Tables
+
+pages:
+  template: table
+
+
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true

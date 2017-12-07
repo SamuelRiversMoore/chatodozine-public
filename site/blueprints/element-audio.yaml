@@ -1,0 +1,49 @@
+title: Son
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Titre
+    type:  text
+    width: 3/4
+    readonly: true
+
+  Year:
+    label: Année  
+    type:  text
+    width: 1/4
+
+  src:
+    label: Source
+    type: select 
+    options: files      
+
+  link:
+    label: Url
+    type: url 
+    options: files      
+
+
+  text:
+    label: Texte
+    type:  textarea
+
+  tables:
+    label: Tables
+    type: structure
+    style: table
+    readonly: true
+    fields:
+      table:
+        label: Table
+        type: select
+        options: query
+        query:
+          page: /tables/
+          fetch: children
+        text: '{{title}}'
+        value: '{{uid}}'

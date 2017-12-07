@@ -1,0 +1,225 @@
+title: Site
+
+pages: true
+
+fields:
+
+  head1:
+    label: Informations générales
+    type: headline
+
+  title:
+    label: Titre du site
+    type:  text
+
+  author:
+    label: Auteur
+    type:  text
+
+  description:
+    label: Description
+    type:  textarea
+    
+  preview:
+    label: Aperçu facebook (1200 x 630)
+    type: select
+    options: images
+    width: 1/2
+
+  head2:
+    label: Texte interface utilisateur
+    type: headline
+
+  increasepos:
+    label: increasepos
+    type:  text
+  decreasepos:
+    label: decreasepos
+    type:  text
+
+  addbutton:
+    label: addbutton
+    type:  text
+    width: 1/2
+  addbuttonalt:
+    label: addbutton alt
+    type:  text
+    width: 1/2
+
+  removebutton:
+    label: removebutton
+    type:  text
+    width: 1/2
+  removebuttonalt:
+    label: removebutton alt
+    type:  text
+    width: 1/2
+
+  removeitem:
+    label: removeitem
+    type:  text
+    width: 1/2
+  removeitemalt:
+    label: removeitem alt
+    type:  text
+    width: 1/2
+
+  savemodifs:
+    label: savemodifs
+    type:  text
+    width: 1/2
+  savemodifsalt:
+    label: savemodifs alt
+    type:  text
+    width: 1/2
+
+  edititem:
+    label: edititem
+    type:  text
+    width: 1/2
+  edititemalt:
+    label: edititem alt
+    type:  text
+    width: 1/2
+  cancelbutton:
+    label: cancelbutton
+    type:  text
+    width: 1/2
+  cancelbuttonalt:
+    label: cancelbutton alt
+    type:  text
+    width: 1/2
+
+  editmodeenabled:
+    label: editmodeenabled
+    type: text
+    width: 1/2
+  editmodedisabled:
+    label: editmodedisabled
+    type: text
+    width: 1/2
+  mediasbutton:
+    label: mediasbutton
+    type: text
+    width: 1/2
+  toolsbutton:
+    label: toolsbutton
+    type: text
+    width: 1/2
+
+  createmedia:
+    label: createmedia
+    type: text
+    width: 1/2
+  createmediaalt:
+    label: createmedia alt
+    type: text
+    width: 1/2
+
+
+  image:
+    label: image
+    type: text
+    width: 1/4
+  titleimage:
+    label: titre image
+    type: text
+    width: 1/4
+  newimage:
+    label: new image
+    type: text
+    width: 1/4
+  deleteimage:
+    label: delete image
+    type: text
+    width: 1/4
+
+  audio:
+    label: audio
+    type: text
+    width: 1/4
+  titleaudio:
+    label: titre audio
+    type: text
+    width: 1/4
+  newaudio:
+    label: new audio
+    type: text
+    width: 1/4
+  deleteaudio:
+    label: delete audio
+    type: text
+    width: 1/4
+
+  video:
+    label: video
+    type: text
+    width: 1/4
+  titlevideo:
+    label: titre video
+    type: text
+    width: 1/4
+  newvideo:
+    label: new video
+    type: text
+    width: 1/4
+  deletevideo:
+    label: delete video
+    type: text
+    width: 1/4
+
+  cancel:
+    label: cancel
+    type: text
+    width: 1/4
+  submit:
+    label: submit
+    type: text
+    width: 1/4
+  create:
+    label: create
+    type: text
+    width: 1/4
+  selectfile:
+    label: select file
+    type: text
+    width: 1/4
+  labeltitle:
+    label: label title
+    type: text
+    width: 1/4
+  labeltext:
+    label: label text
+    type: text
+    width: 1/4
+  progresstext:
+    label: progress text
+    type: text
+    width: 1/4
+
+  loginbutton:
+    label: loginbutton
+    type: text
+    width: 1/3
+  loginbuttonalt:
+    label: loginbutton alt
+    type: text
+    width: 1/3
+  loginalert:
+    label: loginalert
+    type: text
+    width: 1/3
+
+  logoutbutton:
+    label: logoutbutton
+    type: text
+    width: 1/2
+  logoutbuttonalt:
+    label: logoutbutton alt
+    type: text
+    width: 1/2
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+#zoom-ui{
+	position: fixed;
+	right: 2.5rem;
+	bottom: 2.5rem;
+	width: auto;
+	z-index: 9;
+	@media screen and (max-width: $break-medium){
+		right: 2rem;
+		bottom: 1.5rem;
+	}
+	.rangeslider--vertical {
+		width: 20px;
+		min-height: 200px;
+		max-height: 80%;
+	}
+}
+
+
+

@@ -1,0 +1,15 @@
+title: Upload
+pages: false
+files: false
+hide: true
+options:
+  url: false
+  preview: false
+  delete: false
+  status: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    readonly: true

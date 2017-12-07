@@ -1,0 +1,15 @@
+title: Éléments
+
+pages:
+  template: 
+    - element-image
+    - element-audio
+    - element-video
+    - element-iframe
+
+
+fields:
+  title:
+    label: Title
+    type: text
+    readonly: true

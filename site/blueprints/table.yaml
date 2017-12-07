@@ -1,0 +1,110 @@
+title: Table
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Titre de la table
+    type:  text
+    width: 1/2
+  abrege:
+    label: Titre abrégé
+    type:  text
+    width: 1/2
+  couleur:
+    label: Couleur
+    type: color
+    width: 1/2
+  cover:
+    label: Image de couverture
+    type: select
+    options: images
+    width: 1/2
+
+  top:
+    label: Top
+    type:  number
+    width: 1/3
+  left:
+    label: Left
+    type:  number
+    width: 1/3
+  scale:
+    label: Scale
+    type:  number
+    width: 1/3
+
+
+
+  text:
+    label: Presentation de la table
+    type:  textarea
+
+
+  items:
+    label: Éléments de la table
+    type: structure
+    style: table
+    fields:
+      element:
+        label: Élément
+        type: select
+        options: query
+        query:
+          page: /elements/
+          fetch: children
+          text: '{{title}} [{{intendedTemplate}}]' 
+          value: '{{uid}}'
+
+      uniqid:
+        label: Uniqid
+        type:  text
+
+
+      wrapLeft:
+        label: Wrapper left
+        type:  number
+        width: 1/2
+      wrapTop:
+        label: Wrapper top
+        type:  number
+        width: 1/2
+      wrapHeight:
+        label: Wrapper height
+        type:  number
+        width: 1/2
+      wrapWidth:
+        label: Wrapper width
+        type:  number
+        width: 1/2
+      itemLeft:
+        label: Item left
+        type:  number
+        default: 0
+        width: 1/2
+      itemTop:
+        label: Item top
+        type:  number
+        default: 0
+        width: 1/2
+      itemHeight:
+        label: Item height
+        type:  number
+        default: 100
+        width: 1/2
+      itemWidth:
+        label: Item width
+        type:  number
+        default: 100
+        width: 1/2
+      index:
+        label: Index
+        type:  number
+        width: 1/2
+      zIndex:
+        label: z-index
+        type:  number
+        width: 1/2
